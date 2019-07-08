@@ -1,4 +1,12 @@
 
+# 8
+for n in range(200, 1, -1):
+    print(n)
+
+# 9
+for n in range(7, 100, 7):
+    print(n)
+
 # 10
 sum = 0
 x = int(input("please enter a number:"))
