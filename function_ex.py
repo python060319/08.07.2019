@@ -3,7 +3,7 @@
 # and return x ** 2
 # 2
 # write a function myMul with parameters x, y
-# and returns x + y
+# and returns x * y
 # 3
 # write a function myFactorial with parameter x
 # this function calculate the x! factorial (1*2*3*4...*x)
