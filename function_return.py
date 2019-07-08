@@ -1,7 +1,8 @@
+import math
 
 # function with return value
 def getAreaCircle(rad):
-    area = 3.14 * rad ** 2
+    area = math.pi * rad ** 2
     if area > 0:
         return area # ends the function!!!
     print('the radius was 0 or negative')
