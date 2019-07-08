@@ -8,11 +8,12 @@ def getAreaCircle(rad):
     print('the radius was 0 or negative')
 
 def getAreaHekef(rad):
-    pass
+    return math.pi * 2 * rad
 
 # null None Empty
 #result = getAreaCircle(1.5)
 #print(result)
 
 print(f'the area for radius 1.5 is : {getAreaCircle(1.5)}')
-len([1,2,3])
+
+l1 = [ getAreaHekef(3.5), getAreaCircle(7.9) ]
