@@ -14,7 +14,7 @@ for x in range(1, x + 1):
     atz = atz * x
 print(f'atzeret = {atz}')
 
-#12
+# 12
 lucky = [3, 17, 23, 39, 41]
 backup = lucky.copy()
 guess = 0
